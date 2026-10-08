@@ -1,0 +1,4 @@
+requests>=2.31
+dnspython>=2.4
+mmh3>=4.0
+cryptography>=41.0
